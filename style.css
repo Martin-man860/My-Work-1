@@ -1,0 +1,40 @@
+
+
+.one{
+	text-align: center;
+	color: black;
+	padding: 10px;
+	font-style: italic;
+}
+
+.two{
+	font-size: medium;
+	font-style: italic;
+}
+
+.Me{
+	font-style: italic;
+	font-size: medium;
+	background-color: blue;
+	height: 24vh;
+	color: white;
+}
+
+.three{
+	text-align: justify;
+	font-style: italic;
+	font-size: medium;
+	margin: 10px;
+}
+
+.four{
+	text-align: center;
+	color: yellow;
+	font-style: italic;
+	font-size: large;
+}
+
+.my-drop {
+	position: absolute;
+	left: 70rem;
+}
